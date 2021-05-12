@@ -18,7 +18,7 @@
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.27",
     "mongoose": "^5.7.6",
-    "nodemailer": "^6.3.1",
+    "nodemailer": "^6.4.16",
     "nodemailer.js": "0.0.2-security",
     "pino": "^5.13.5",
     "redis": "^2.8.0",
